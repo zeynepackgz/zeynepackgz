@@ -1,25 +1,37 @@
-# Merhaba, Benim Adım Zeynep 👋
+**Galactic Explorer**
 
-Jr data scientist
+## About Me
 
-## 🧑‍💻 Teknolojiler ve Araçlar
+Data Scientist & Machine Learning 
 
-- Programlama Dili: Python
-- Veritabanı: Microsoft SQL Server
-- Araçlar: Google Colab, Jupyter Notebook
+**Mission Control**
 
-## 🌱 Şu Anda Öğreniyorum
+## Tech Stack
 
-- SQL
-- Big Data
-- R
+- Programming Languages: Python
+- Machine Learning Frameworks: TensorFlow, Scikit-learn
+- Deep Learning: CNN, RNN, LSTM, Transformers
+- Computer Vision: OpenCV, Keras, YOLO
+- Data Science Tools: NumPy, Pandas, Matplotlib, Seaborn
 
-## 💼 Çalışmalarım
+**Stellar Projects**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeyneppacikgoz-blue)](https://www.linkedin.com/in/zeyneppacikgoz/)
-- [![YouTube](https://img.shields.io/badge/YouTube-zeynepyapayzeka-red)](https://www.youtube.com/channel/UCnTXN6KA18bLSjgVYbMcgpA)
-- [![Medium](https://img.shields.io/badge/Medium-zzeynepacikgozz-black)](https://medium.com/@zzeynepacikgozz)
+## Projects and Contributions
 
-## 🎯 GitHub İstatistikleri
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourlinkedinprofile-blue)](https://www.linkedin.com/in/zeyneppacikgoz/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-yourkaggleprofile-blue)](https://www.kaggle.com/zeynepaacikgoz)
+- [![Medium](https://img.shields.io/badge/Medium-yourmediumprofile-black)](https://medium.com/@zzeynepacikgozz)
 
-![İstatistikler](https://github-readme-stats.vercel.app/api?username=zeynepackgz&show_icons=true)
+**Galactic Statistics**
+
+## GitHub Statistics
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
+
+**Cosmic Research**
+
+## Research Interests
+
+- Artificial Intelligence for Cyber Security
+- Computer Vision for Object Detection 
+- ML Algorithms
