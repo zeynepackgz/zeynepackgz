@@ -3,7 +3,7 @@
 Hello, I am interested in machine learning and computer vision and I am doing projects on these topics.
 
 
-## Tech Stack 🛰️
+## Tech Stack 📚
 
 - Programming Languages: Python
 - Machine Learning Frameworks: TensorFlow, Scikit-learn
