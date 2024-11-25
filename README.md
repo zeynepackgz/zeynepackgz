@@ -7,8 +7,7 @@ Hello, I am interested in machine learning and computer vision and I am doing pr
 
 - Programming Languages: Python
 - Machine Learning Frameworks: TensorFlow, Scikit-learn
-- Deep Learning: CNN, RNN, LSTM, Transformers
-- Computer Vision: OpenCV, Keras, YOLO
+- Computer Vision: OpenCV, YOLO
 - Data Science Tools: NumPy, Pandas, Matplotlib, Seaborn
 
 
