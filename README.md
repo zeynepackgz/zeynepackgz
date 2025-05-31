@@ -4,9 +4,9 @@
 </p>
 
 
-## 🌟 About Me  
+## ✨ About Me  
 
-Hi there! 👋 I’m someone who’s genuinely excited about **data science** and **data analysis**, not just as a job, but as a passion💖✨.  
+Hi there! 👋 I’m someone who’s genuinely excited about **data science** and **data analysis**, not just as a job, but as a passion💖.  
 
 I love uncovering insights from data, asking the right questions, and finding creative solutions📈.
 
