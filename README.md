@@ -32,11 +32,6 @@ I’m always curious, always learning, and always up for a challenge. Whether it
 
 ---
 
-## 📚 My Medium Articles  
-
-🔗 [Medium Profile]([https://medium.com/@zzeynepacikgozz])  
-
----
 
 ## ✨ Let’s Connect!  
 
