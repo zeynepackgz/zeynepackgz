@@ -16,18 +16,19 @@ I’m always curious, always learning, and always up for a challenge. Whether it
 
 ## 🚀 Interests & Technologies  
 
-- 🤖 **NLP (Natural Language Processing)**  
-- 🤗 **Hugging Face**  
+- 📈 **Data Analytics and Visualization** 
 - 🐍 **Python**  
 - 📊 **Matplotlib**, **Seaborn**  
-- ⚙️ **Scikit-Learn**  
 - 🗄 **Microsoft SQL Server**
+- 🤖 **NLP (Natural Language Processing)**  
+- 🤗 **Hugging Face**
+- ⚙️ **Scikit-Learn**  
 
 ---
 
 ## 🛠 Tools I Use  
 
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" width="100" /> <n> <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" /> <n> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="60" />
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" width="100" /> <n> <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" /> <n> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="60" /> <n> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" />
 
 
 ---
